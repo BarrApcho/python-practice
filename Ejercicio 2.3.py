@@ -1,0 +1,10 @@
+a=2
+print(type(a))
+pi=3.1416
+print(type(pi))
+nombre="Juan"
+print(type(nombre))
+esMayor=True
+print(type(esMayor))
+x=None
+print(type(x))
